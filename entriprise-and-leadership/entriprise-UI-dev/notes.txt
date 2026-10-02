@@ -1,0 +1,4 @@
+1. Course website: https://stevekinney.com/courses/enterprise-ui
+2. Course repo: https://github.com/stevekinney/enterprise-ui-workshop
+3. Course slides: https://speakerdeck.com/stevekinney/enterprise-ui-v2
+4. Module federation repo: https://github.com/stevekinney/enterprise-ui-federation

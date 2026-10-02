@@ -1,0 +1,2 @@
+1. Course site: https://react-v9.holt.courses/
+2. Course repo: https://github.com/btholt/complete-intro-to-react-v9

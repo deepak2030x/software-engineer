@@ -1,0 +1,2 @@
+1. course website: https://anjana.dev/typescript-first-steps/
+2. Talk (A 4 min video): https://www.destroyallsoftware.com/talks/wat

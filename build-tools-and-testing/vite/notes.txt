@@ -1,0 +1,2 @@
+1. Course notes: https://vite-workshop.vercel.app/introduction
+2. Course repo: https://github.com/stevekinney/vite-starter

@@ -1,0 +1,2 @@
+1. Course website/slides: https://sgoldfarb2.github.io/practical-prompt-engineering/
+2. Course repo: https://github.com/sgoldfarb2-fem/practical-prompt-engineering-code-exercise

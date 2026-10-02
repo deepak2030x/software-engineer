@@ -1,0 +1,3 @@
+1. Course slides: https://fem-course-slides.pages.dev/#0
+2. Author's blog: https://frontendatscale.com/
+3. code repo: https://github.com/Charca/fem-frontend-architecture
